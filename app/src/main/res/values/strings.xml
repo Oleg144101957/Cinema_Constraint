@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cinema Constraint</string>
+    <string name="movie_title">Fast and Furious 2014</string>
+    <string name="director_label">Director</string>
+    <string name="director">Justin Lin</string>
+    <string name="short_descr">Dominic and his crew thought they\'d left the criminal mercenary life behind. They\'d defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw\'s brother, Deckard Shaw, is out killing the crew one by one for revenge.</string>
+    <string name="actors">Actors</string>
+    <string name="actor1">Brian O\'Conner</string>
+    <string name="actor2">Vin Diesel</string>
+    <string name="actor3">Dominic Toretto</string>
+    <string name="actor4">Paul Walker</string>
+</resources>
